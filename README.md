@@ -9,7 +9,7 @@
 <h1 align="center">Hi 🦊, I'm Aiden</h1>
 <h3 align="center">★ Web Dev student ★</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aiden-ouarghi&label=Profile%20views&color=0e75b6&style=flat" alt="aiden-ouarghi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aiden-ouarghi&label=Profile%20views&color=ff8000&style=flat" alt="aiden-ouarghi" /> </p>
 
 - 🌱 I’m currently learning **C#**
 
