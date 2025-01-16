@@ -6,8 +6,8 @@
 
 
 
-<h1 align="center">Hi 🦊, I'm Aiden</h1>
-<h3 align="center">★ Web Dev student ★</h3>
+<h1 align="center">ᯓ 𝘸𝘦𝘭𝘤𝘰𝘮𝘦 𝘥𝘦𝘢𝘳 𝘸𝘢𝘯𝘥𝘦𝘳𝘦𝘳 ⁺₊ </h1>
+<h3 align="center">★ Graphic Designer & Web Dev student ★</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiden-ouarghi&label=Profile%20views&color=ff8000&style=flat" alt="aiden-ouarghi" /> </p>
 
